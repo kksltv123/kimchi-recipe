@@ -8,4 +8,3 @@ amend 테스트
 reset 테스트
 reset 테스트 하드
 amend 테스트 2
-커밋 되돌리기
